@@ -241,7 +241,7 @@ function askQuestion(query) {
 
 async function main() {
   console.clear();
-  console.log(chalk.bold.magenta("\n🤖 CampHaven Auto-Claimer"));
+  console.log(chalk.bold.magenta("\n🤖 Datahaven-Zealy-Claim"));
   console.log(
     chalk.gray(`   Loaded ${accounts.length} accounts from ${DATA_FILE}`),
   );
